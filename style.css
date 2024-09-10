@@ -71,3 +71,13 @@
     background-size: 30px;
     cursor: pointer;
 }
+
+#result{
+    font-size: 20px;
+    padding-left: 10px;
+
+}
+
+#result span{
+    color: #ffff76;
+}
